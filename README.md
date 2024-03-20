@@ -1,12 +1,12 @@
-Coffee Vending Machine
+#Coffee Vending Machine
 
-Introduction
+#Introduction
 
 This code simulates a coffee vending machine that allows users to select from a variety of beverages and dispenses them upon successful payment. It manages ingredient inventory, simulates coin insertion, and provides change if necessary.
 
-Features
+#Features
 
-Menu: Offers three beverage options: Tea, Filter Coffee, and Lemon Tea.
+#Menu: Offers three beverage options: Tea, Filter Coffee, and Lemon Tea.
 Inventory Management: Tracks available quantities of water, milk, coffee, sugar, lemon flavor, and tea.
 Payment Processing: Simulates inserting 5, 10, and 20 rupee coins to make payment.
 Change Dispense: Provides change for any overpayment.
